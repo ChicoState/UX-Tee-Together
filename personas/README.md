@@ -1,1 +1,1 @@
-# [Personas & Scenarios](personas/Tee-Together Personas_Scenarios.pdf)
+# [Personas & Scenarios](Tee-Together Personas_Scenarios.pdf)
