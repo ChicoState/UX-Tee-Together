@@ -1,19 +1,15 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Tee-Together
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Tee-Together is a golf-scorekeeping app with social functionality
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Cooper Howard](#)** - Co-creator of personas and scenarios. Created the Wireframes and Sketches pages. Contributed to this README.md file and the finalized sketch.
+* **[Larkin Koker](#)** - Co-creator of personas and scenarios. Created the Personas and Scenarios page. Contributed to wireframe creation.
+* **[Max Stickels](#)** - Creator of the finalized sketch, the Phase 1 Report, and this README.md file. Contributed to wireframe creation + personas and scenarios creation.
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
@@ -23,10 +19,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Competitive analysis of three related products revealed Tee-Together’s unique advantages:
+Globally accessible: Competing apps require course to be in database to score games within app, which limits functionality in poorly-documented regions.
+Unconditionally free-to-use: Absolutely no ads or payments required. Competing apps with profit incentives limit free features and follow subscription models when providing full app access.
+Full social functionality: 
+
 
 [Full phase I report](phaseI/)
 
