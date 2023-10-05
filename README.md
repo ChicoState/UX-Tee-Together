@@ -4,9 +4,9 @@ Tee-Together is a golf-scorekeeping app with social functionality
 
 ## UX Team Members
 
-* **[Cooper Howard](#)** - Co-creator of personas and scenarios. Created the Wireframes and Sketches pages. Contributed to this README.md file and the finalized sketch.
-* **[Larkin Koker](#)** - Co-creator of personas and scenarios. Created the Personas and Scenarios page. Contributed to wireframe creation.
-* **[Max Stickels](#)** - Creator of the finalized sketch, the Phase 1 Report, and this README.md file. Contributed to wireframe creation + personas and scenarios creation.
+* **[Cooper Howard](https://github.com/UsabilityEngineering/ux-portfolio-maxwellstickels)** - Co-creator of personas and scenarios. Created the Wireframes and Sketches pages. Contributed to this README.md file and the finalized sketch.
+* **[Larkin Koker](https://github.com/UsabilityEngineering/ux-portfolio-lkoker)** - Co-creator of personas and scenarios. Created the Personas and Scenarios page. Contributed to wireframe creation.
+* **[Max Stickels](https://github.com/UsabilityEngineering/ux-portfolio-maxwellstickels)** - Creator of the finalized sketch, the Phase 1 Report, and this README.md file. Contributed to wireframe creation + personas and scenarios creation.
 
 # User-Centered Design Artifacts
  
