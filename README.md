@@ -1,6 +1,6 @@
 # Tee-Together
 
-Tee-Together is a golf-scorekeeping app with full social functionality, which allows users to play golf games asynchronously by sharing their scorecards. The app also offers customizable profiles, location-based course listings, and app-wide interactive events.
+Tee-Together is a work-in-progress golf-scorekeeping app with full social functionality, which allows users to play golf games asynchronously by sharing their scorecards. The app also plans to offer customizable profiles, location-based course listings, and app-wide interactive events.
 
 ## UX Team Members
 
