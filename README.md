@@ -21,7 +21,7 @@ Tee-Together is a work-in-progress golf-scorekeeping app with full social functi
 
 The game of golf is one steeped in tradition and classical virtues, but has had a tough time translating these aspects to attract the modern era. Tee-Together aims to be the straight-shooter of the modern golf era, **providing a social and competitive hub for new and experienced golfers alike**. Research into other app experiences revealed opportunities to **invigorate our app’s user experience** and the game of golf itself.
 - Competitive analysis of three related products revealed Tee-Together’s **unique advantages**:
-  - __Globally accessible__: Competing apps require a course to be in their database to score games within the app, which limits **functionality in poorly-documented regions**.
+  - <ins>Globally accessible__</ins>: Competing apps require a course to be in their database to score games within the app, which limits **functionality in poorly-documented regions**.
   - __Unconditionally free-to-use__: Absolutely **no ads or payments required**. Competing apps with profit incentives limit free features and follow subscription models when providing full app access.
   - __Full social functionality__: Competing apps limit **direct user interactions**, instead opting for feeds of public content.
 - Heuristic evaluation of our most direct competitor found a simple user-friendly design, made complicated by an **excess of features** and **subscription-based paywalling**.
