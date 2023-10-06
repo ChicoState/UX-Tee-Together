@@ -6,7 +6,7 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+In order to better understand the market we intend to enter, and identify potential selling points unique to Tee-Together, we compared the features of three other social golf apps (Deemples Golf, Tee Up, and Hole19) via competitive analysis. We also performed a heuristic evaluation of our most established competitor Hole19, in which the app was rated on a scale from 1 to 10 for its adherence to several tenets of UX design. This was done for the purpose of exposing potential design improvements/pitfalls in our competition, as well as putting us in the mindset to evaluate the user experience we are creating for Tee-Together. In order to have a visual reference for our app concept, we sketched the rough layout for multiple possible states of our app. Three personas, each with their own unique goals and scenarios, were also created to establish potential user goals that our app could satisfy. 
 
 ## Findings
 
