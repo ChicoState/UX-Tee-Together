@@ -25,6 +25,12 @@ The game of golf is one steeped in tradition and classical virtues, but has had 
   - Unconditionally free-to-use: Absolutely no ads or payments required. Competing apps with profit incentives limit free features and follow subscription models when providing full app access.
   - Full social functionality: Competing apps limit direct user interactions, instead opting for feeds of public content.
 - Heuristic evaluation of our most direct competitor found a simple user-friendly design, made complicated by an excess of features and subscription-based paywalling.
+- Sketches put our initial layout concepts onto paper
+  - Radial Navigation Bar helps interface stand out from competition (post-MVP addition)
+  - Adherence to social media layout and symbol standards keeps app features recognizable
+- Personas and Scenarios highlighted potential goals of our users, and how these goals may be satisfied
+  - Make course accessibility information readily available (i.e. carts, on-course water dispensaries)
+  - Allow for creation of global (app-wide) and local golf events to boost user engagement
 
 
 [Full phase I report](phaseI/)
