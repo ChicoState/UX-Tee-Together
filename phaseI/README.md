@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Golf is a sport that has stood the test of time, but it seems time is now testing golf. Golf is steeped in tradition and old values and old school methods of bringing games and people together. Golf has always been behind with the times, for example, it took 8 years after the first football game was televised for the first Open to be televised. In the modern era, personal devices run the world and just like TV, golf is behind the curve when it comes to media applications. Tee-together seeks to attack the curve by being a free one-time stopn for bringing golfers together and sharing information on PGA and local events all around america. 
 
 ## Methods
 
