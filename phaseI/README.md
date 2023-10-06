@@ -14,7 +14,7 @@ In order to better understand the market we intend to enter, and identify potent
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Through our limited user feedback and artifacts, the main conclusions that can be taken away is that it needs to be streamlined and have greater functionality. That we need to make it as easy and effortless as possible to interact and use this application. Going forward we will keep working on the scorecard adding new features into it, such as the ability to change the amount of holes you can set to play for a round. Finally the goal that will be worked towards is minimizing the number of steps that need to be taken to complete any important action.
 
 ## Caveats
 We were unable to properly evaluate Hole19 on the basis of error prevention/recognition/recovery. This is because we did not encounter any user errors in our time experimenting with Hole19. One potential source of “error” is that a free-tier user can select any of the many premium features they cannot use, which brings up an advertisement for the app’s premium subscription. This interaction is certainly intended by the developers, however, so we strain to call it a user error.
