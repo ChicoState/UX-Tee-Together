@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In our efforts to further the production of our revolutionary application, we have taken steps to refine our user interaction and develop wireframes. We have taken the sketches from Phase 1 and combined them with our user stories to build wireframes that cover the pages of our application and visualize user interaction. In addition, we sent out our wireframes to our peers to receive feedback on their expectations in coherency with the steps they took to complete tasks within our wireframes.
 
 ## Methods
 
