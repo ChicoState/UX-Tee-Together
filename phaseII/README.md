@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In order to further refine the user experience of our revolutionary application, we have shifted our focus towards obtaining user feedback to help identify potential areas for improvement. This user feedback has been instrumental for us, as we work to optimize the efficiency and satisfaction of navigating the Tee-Together app interface in its current wireframe form.
+In order to further refine the user experience of our revolutionary application, we have shifted our focus towards obtaining user feedback to help identify potential areas for improvement. This user feedback has been instrumental for us, as we work to increase the efficiency and satisfaction of navigating the Tee-Together app interface in its current wireframe form.
 
 ## Methods
 
