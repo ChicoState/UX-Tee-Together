@@ -37,10 +37,10 @@ Here is the feedback again, reworded and reformatted to fit with the provided qu
 !!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-!!! THIS IS ALSO WHERE WE SHOULD TALK ABOUT THE WIREFRAME CHANGES, THE WIREFRAME IS THE "FUTURE WORK" SHAPED BY THE FEEDBACK !!!
+this was just pulled from the wireframe fianlizing assignment
+From the two cognitive walkthroughs we received, it became clear that our first wireframes came close, but did not fully realize the goals defined in the scenario of our persona Daryll Wood. There were complaints about the ambiguity of the “Handle” field in the Create Account section and the “72” icon in the bottom navbar; the users encouraged us to explain these somewhere within the app, or rework them to be more recognizable.
+The actual flow of the app caused no issues up until the Courses and Scorecard sections, which we had considered to be the goal pages of Daryll Wood’s scenario. This caused confusion among the users since the wireframe lacks a proper page for when a course is selected or a scorecard is being edited. The users, unsure of where to go after having created a scorecard or selected a course, simply moved on to the next page of the wireframe PDF, which in both cases was not a correct flow through the app and caused greater confusion.
+So, as we have learned from our two cognitive walkthroughs, there are a few pages that need to be added. First, we need to add an Edit Scorecard page, so that it is clear how you can update and edit cards. Next we need to add a Course Details page that you can access from interacting with a course. This would help satisfy Clint Wedge’s scenario. We also need to add the Events and Chat pages in order to satisfy the goals in Barrett Green’s scenario.
 
 ## Caveats
 
