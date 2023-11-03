@@ -26,11 +26,11 @@ Here is the feedback again, reworded and reformatted to fit with the provided qu
     
     *The app's aesthetic does not do enough to distinguish itself from default Android app themes.*
     
- 3. What are some things that have bothered you about other mobile apps that we should take care to avoid?
+ 2. What are some things that have bothered you about other mobile apps that we should take care to avoid?
 
 *Avoid subjecting users to superfluous tasks, excessive notifications, or advertisements of any form. Users should not be logged out every time the app is closed.*
 
- 4. What are some additional features that you would like to see in the app?
+ 3. What are some additional features that you would like to see in the app?
 
 *Allow users to participate in daily leaderboards, view maps of golf courses, view other user profiles, become friends with other users, and send scorecards to friends. When creating the scorecard, include default course length options (ideally, 9 and 18 hole courses), and allow for multiple players on the same scorecard. Scorecards should be stored remotely, allowing users to access their scorecards on multiple devices with a single account.*
 
