@@ -12,7 +12,7 @@ Near the end of Phase 1, the Tee-Together software engineers presented their cur
  2. What are some things that have bothered you about other mobile apps that we should take care to avoid?
  3. What are some additional features that you would like to see in the app?
 
-
+!!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
 
 ## Findings
 
@@ -29,10 +29,18 @@ Here is the feedback again, reworded and reformatted to fit with the provided qu
  3. What are some additional features that you would like to see in the app?
    - *Allow users to participate in daily leaderboards, view maps of golf courses, view other user profiles, become friends with other users, and send scorecards to friends. When creating the scorecard, include default course length options (ideally, 9 and 18 hole courses), and allow for multiple players on the same scorecard. Scorecards should be stored remotely, allowing users to access their scorecards on multiple devices with a single account*
 
+!!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
+!!! THIS IS ALSO WHERE WE SHOULD TALK ABOUT THE WIREFRAME CHANGES, THE WIREFRAME IS THE "FUTURE WORK" SHAPED BY THE FEEDBACK !!!
+
 ## Caveats
 
-While we are grateful to now have access to some user feedback, it is unlikely that any of it has come from a user within our target demographic. In particular, Software Engineering students are especially subject to bias about an app's usability
+While we are grateful to now have access to some user feedback, it is uncertain (and unlikely) that any of it has come from users within our target demographic.
+
+Regarding the informal feedback, we do not know which software engineers we received feedback from, let alone their level of interest in golf. While we may infer that the Software Engineering students are experienced enough with smartphones to use our app, they may in fact be too experienced to provide meaningful feedback on usability. Since the Software Engineering students are busy making an app of their own, likely with the same platform and foundational code, they may already be keen to poor design conventions that average Tee-Together users would not understand, and mistake their specific understanding of the convention for general recognizability.
+
+!!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
