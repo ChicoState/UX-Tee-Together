@@ -41,8 +41,8 @@ The game of golf is one steeped in tradition and classical virtues, but has had 
 
 Since the end of Phase I, plenty of progress has been made towards maximizing the ease and enjoyability of the Tee-Together user experience. External feedback on previous iterations of Tee-Together’s design offered valuable advice for **creating a more satisfying and efficient user experience**.
 - <ins>Cognitive walkthroughs</ins> of our wireframe revealed opportunities to **strengthen the continuity of the app’s navigation** and made clear which additional screens will be necessary to **satisfy user goals**.
-- <ins>Informal feedback</ins> from Software Engineering students highlighted extra features and options that should be added to help improve the user experience on our app.
-- <ins>Wireframes</ins> have been updated to reflect the feedback received and **represent all intended user interactions**. 
+- <ins>Informal feedback</ins> from Software Engineering students highlighted extra features and options that could be added to help improve the user experience on our app.
+- <ins>Wireframes</ins> have been updated to reflect the feedback received and **represent every user interaction** intended for our minimum viable product. 
   - Screens not included in the first wireframe draft, such as those for Events and Scorecard Editing, have been added. 
 
 
