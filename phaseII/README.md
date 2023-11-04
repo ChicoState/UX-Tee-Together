@@ -50,4 +50,4 @@ While we are grateful to now have access to some user feedback, it is uncertain 
 
 Regarding the informal feedback, we do not know which software engineers we received feedback from, let alone their level of interest in golf. While we infer that the Software Engineering students are experienced enough with smartphones to use our app, they may be too experienced to provide meaningful feedback on usability. Due to their extra experience working with smartphone apps, likely with the same platform and foundational code as ours, they may already be familiar with commonly used poor design conventions that average Tee-Together users would not understand and mistake their specific understanding of the convention for general recognizability.
 
-!!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
+Experts within the usability field typically conduct cognitive walkthroughs. Although valuable, the walkthroughs received from our peers can be flawed. It is also good to note that walkthroughs are useful when done iteratively. The walkthroughs created were based on a single use case and a single version of the application. 
