@@ -12,7 +12,11 @@ Near the end of Phase 1, the Tee-Together software engineers presented their cur
  2. What are some things that have bothered you about other mobile apps that we should take care to avoid?
  3. What are some additional features that you would like to see in the app?
 
-!!! TALK ABOUT COGNITIVE WALKTHROUGH !!!
+The major research method from the second sprint is a cognitiive walktrhough. We had 2 seperate users comeplete a task. They tried to fufill Darryl Wood's senario where they had to simulate creating a scorecard and finding a course. The user had to described each action they would take to try and finish the tasks. At each step they would answer these two questions:
+
+• Will the user know what to do at this step?
+
+• If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
 
 ## Findings
 
