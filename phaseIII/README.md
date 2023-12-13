@@ -4,6 +4,7 @@
 
 - [Usability Test Protocol](./Tee-Together_Protocol.pdf)
 - [Usability Test Data Spreadsheet](./Tee-Together_Protocol.xlsx)
+- [Usability Test Prototype](https://xd.adobe.com/view/62b36a4e-d502-40a3-a217-805356606897-37e0/?fullscreen&hints=off)
 
 ## Introduction
 
