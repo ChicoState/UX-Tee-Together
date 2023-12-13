@@ -4,9 +4,9 @@ Tee-Together is a work-in-progress golf-scorekeeping app with full social functi
 
 ## UX Team Members
 
-* **[Cooper Howard](https://github.com/UsabilityEngineering/ux-portfolio-copper-glitch)** - Co-creator of personas and scenarios. Created the Wireframes and Sketches pages. Contributed to the Phase 1 Report and the finalized sketch.
-* **[Larkin Koker](https://github.com/UsabilityEngineering/ux-portfolio-lkoker)** - Co-creator of personas and scenarios. Created the Personas and Scenarios page. Contributed to wireframe creation. Contributions to Phase 1 Report and Executive Summary.
-* **[Max Stickels](https://github.com/UsabilityEngineering/ux-portfolio-maxwellstickels)** - Creator of the finalized sketch, the Phase 1 Report, and this README.md file. Contributed to wireframe creation + personas and scenarios creation.
+* **[Cooper Howard](https://github.com/UsabilityEngineering/ux-portfolio-copper-glitch)** - Co-creator of personas and scenarios. Created the Wireframes and Sketches pages. Contributed to wireframe/prototype creation, Phase Reports, and the finalized sketch.
+* **[Larkin Koker](https://github.com/UsabilityEngineering/ux-portfolio-lkoker)** - Co-creator of personas and scenarios. Created the Personas and Scenarios page. Contributed to wireframe/prototype creation and Phase Reports.
+* **[Max Stickels](https://github.com/UsabilityEngineering/ux-portfolio-maxwellstickels)** - Creator of the finalized sketch, the Phase Reports, and this README.md file. Contributed to wireframe/prototype creation, as well as Personas and Scenarios page.
 
 # User-Centered Design Artifacts
  
@@ -52,9 +52,10 @@ Since the end of Phase I, plenty of progress has been made towards maximizing th
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The Tee-Together user experience . Direct user testing and further external feedback has illuminated successes of our app's UX design and possible areas for further **improvement over our competitors**.
+- <ins>An informal feedback session</ins>, once again containing Software Engineering students, aimed to reveal any constructive criticism regrading Tee-Together's user experience.
+- <ins>A prototype</ins> of Tee-Together, which recreates the intended user interface in high fidelity, has now been created from our previous wireframe, allowing for the simulation of **geniune user interaction**.
+- <ins>Within-subject Usability testing</ins> comparing the Tee-Together prototype to top competitor Hole19 demonstrated **significant advantages in Tee-Together's simpler design** over the more cluttered design of Hole19. 
+  - Users offered suggestions for how make the interface clearer, as well as additional screens and navigations which may increase user satisfaction.
 
 [Full phase III report](phaseIII/)
