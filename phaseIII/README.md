@@ -2,8 +2,8 @@
 
 ## Relevant Links
 
-[Usability Test Protocol](./Tee-Together_Protocol.pdf)
-[Usability Test Data Spreadsheet](./Tee-Together UX Data Collection.xlsx)
+- [Usability Test Protocol](./Tee-Together_Protocol.pdf)
+- [Usability Test Data Spreadsheet](./"Tee-Together UX Data Collection.xlsx")
 
 ## Introduction
 
