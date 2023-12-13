@@ -13,7 +13,7 @@ Tee-Together is a work-in-progress golf-scorekeeping app with full social functi
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://xd.adobe.com/view/62b36a4e-d502-40a3-a217-805356606897-37e0/?fullscreen&hints=off)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
