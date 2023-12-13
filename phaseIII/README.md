@@ -11,11 +11,21 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+Shortly after the conclusion of Phase II, informal feedback was once again drawn from Software Engineering students during a presentation by our software engineers. The participants were asked two questions:
+- For those familiar with golf, which scoring system would you rather see in our app - total strokes or strokes from par?
+- Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
+
+
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The informal feedback responses, directly as transcribed by the Tee-Together software engineers, are as follows:
+
+> For those familiar with golf, which scoring system would you rather see in our app - total strokes or strokes from par?
+- _Subjective, some prefer total strokes some prefer par. Maybe have both as options to our app?_
+
+> Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
+- _Yes, it would make it easier to see fellow players scores. Many play per cart, so 1 scorecard kept. Additional functionality for both options, sync phones together._
 
 ## Conclusions
 
