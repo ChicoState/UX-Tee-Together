@@ -2,7 +2,7 @@
 
 ## Relevant Links
 
-(./Tee-Together_Protocol.pdf)[Usability Test Protocol]
+[./Tee-Together_Protocol.pdf](Usability Test Protocol)
 
 ## Introduction
 
