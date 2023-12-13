@@ -1,5 +1,9 @@
 # Phase III: Prototypes and User Testing
 
+## Relevant Links
+
+(./Tee-Together_Protocol.pdf)[Usability Test Protocol]
+
 ## Introduction
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
