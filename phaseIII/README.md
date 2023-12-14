@@ -31,7 +31,7 @@ Although initial screening was performed to ensure no participants were a comple
 
 After these questions, participants were then asked to complete two tasks on both Hole19 and Tee-Together, with the order of the apps being randomized between participants.
 
-Task 1 for each app involved signing on to a premade account and viewing the profile information. This task was set up for comparing the relative ease of creating/signing into an account on each app. Task 2 for each app involved finding information on a course named "Spring Valley", creating a scorecard for that course, and recording a score for the course's first hole. This task was set up to compare the clarity of each app's Courses page and scorecard creation process.
+Task 1 for each app involved signing on to a premade profile on the moderator's device and reaching the profile page. This task was set up for comparing the relative ease of creating/signing into an account on each app. Task 2 for each app involved finding information on a golf course named "Spring Valley", creating a scorecard for that course, and recording a score for the course's first hole. This task was set up to compare the clarity of each app's Courses page and scorecard creation process.
 
 In order to gain quantifiable data on the ease of using each app, participants were asked to rate the ease of a task on a scale from 1-5 (1 being very difficult, 5 being very easy) immediately after completing it.
 
