@@ -54,7 +54,7 @@ The informal feedback responses, directly as transcribed by the Tee-Together sof
 
 In summary, the Software Engineering students had no clear preference for golf scoring systems, and suggested a system which integrates both our propositions. They also approved of our collaborative scorecard idea. 
 
-#### Usability Test
+#### Usability Test Background Information Questions
 
 The responses to the initial background information questions are summarized in the table below. Note that the one partipicant who didn't identify as a casual golf player explained that they have not played golf at all; no participants reported playing golf competitively. 
 
@@ -62,12 +62,21 @@ The responses to the initial background information questions are summarized in 
 
 In response to the questions regarding social media likes and dislikes, participants mentioned that they like when social media apps offer stories like Snapchat and ranking systems. On the other hand, participants disliked social applications that mismanaged users' personal information, or provided recommendation algorithms which pigeonhole content. Sharing of location data came up both as a like and dislike between two separate participants.
 
-The difficulty rating and completion rates of tasks within each app are shown below. Note that some ratings have caveats associated with them, denoted by asterisks (*).
+#### Performance On Tasks
+
+The difficulty rating and completion rates of tasks within each app are shown in the table below. Note that some ratings have caveats associated with them, denoted by asterisks (*).
+
+For Hole19 Task 2, multiple participants expressed confusion when trying to figure out how to search for the "Spring Valley" course. One participant also got a nosebleed during Hole19 Task 1, though it is uncertain whether this was related to any stress they were undergoing from the test. 
 
 <img src="./phase3tables.PNG" width="400">
 
+#### Concluding Questions
+
+The quantitative ratings regarding the quality of each app are summarized below.
 
 <img src="./phase3table3.PNG" width="400">
+
+One user noted that Tee-Together was "simple and straightforward", while another called Hole19 "overly complicated", and yet another expressed confusion with the various similar-sounding terms Hole19 used. Among the suggestions made for Tee-Together were to give the app a more consistent look, label navigation bar icons for further clarity, allow for searching of users by handle, and add a means to store a list of existing scorecards.
 
 ## Conclusions
 
