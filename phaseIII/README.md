@@ -43,7 +43,7 @@ After completing the tasks, we asked for several more quantitative ratings of th
 Participations were also asked about any potential features they would like to see added to Tee-Together, and given time to provide any additional feedback on either app.
 
 ## Findings
-
+#### Informal Feedback
 The informal feedback responses, directly as transcribed by the Tee-Together software engineers, are as follows:
 
 > For those familiar with golf, which scoring system would you rather see in our app - total strokes or strokes from par?
@@ -52,7 +52,7 @@ The informal feedback responses, directly as transcribed by the Tee-Together sof
 > Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
 - _Yes, it would make it easier to see fellow players scores. Many play per cart, so 1 scorecard kept. Additional functionality for both options, sync phones together._
 
-#### Background Information
+
 
 #### Usability Test
 <img src="./phase3tables.PNG" width="400">
