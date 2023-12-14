@@ -57,10 +57,13 @@ In summary, the Software Engineering students had no clear preference for golf s
 #### Usability Test
 
 The responses to the initial background information questions are summarized in the table below. Note that the one partipicant who didn't identify as a casual golf player explained that they have not played golf at all; no participants reported playing golf competitively. 
+
 <img src="./phase3table2.PNG" width="300">
+
 In response to the questions regarding social media likes and dislikes, participants mentioned that they like when social media apps offer stories like Snapchat and ranking systems. On the other hand, participants disliked social applications that mismanaged users' personal information, or provided recommendation algorithms which pigeonhole content. Sharing of location data came up both as a like and dislike between two separate participants.
 
 The difficulty rating and completion rates of tasks within each app are shown below. Note that some ratings have caveats associated with them, denoted by asterisks (*).
+
 <img src="./phase3tables.PNG" width="400">
 
 
