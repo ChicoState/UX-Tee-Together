@@ -53,7 +53,7 @@ Since the end of Phase I, plenty of progress has been made towards maximizing th
 **Executive Summary**
 
 Progress towards realizing the true, comprehensive Tee-Together user experience continues. Direct user testing and further external feedback has illuminated successes of our app's UX design and possible areas for further **improvement over our competitors**.
-- <ins>An informal feedback session</ins>, once again consisting of Software Engineering students, aimed to reveal users' preferences for Tee-Together's scorecard system.
+- <ins>An informal feedback session</ins>, once again consisting of Software Engineering students, aimed to reveal preferences for Tee-Together's scorecard system.
 - <ins>A prototype</ins> of Tee-Together, which recreates the intended user interface in high fidelity, has now been created from our previous wireframe, allowing for the simulation of **geniune user interaction**.
 - <ins>Within-subject usability testing</ins> comparing the Tee-Together prototype to top competitor Hole19 demonstrated **significant advantages in Tee-Together's simpler design** over the more cluttered design of Hole19. 
   - Users offered suggestions for how to make the Tee-Together interface clearer, as well as additional screens and navigations which may increase user satisfaction.
