@@ -8,7 +8,7 @@
 
 ## Introduction
 
-As we continue to innovate and develop Tee-Together, we gain meaningful feedback as we move closer to our final product. For the project's third phase, we developed a prototype and conducted user tests in cooperation with the IRB. We developed protocols and created informed consent forms that met the standards required to perform these tests. Through these tests, we gained critical feedback on our prototype and reassurance that the direction we are taking Tee-Together is correct. The feedback we received has given us a better understanding of user goals and user thought processes when utilizing our application. The following report will highlight our methods, findings, and conclusions of this innovative process. 
+As we continue to innovate and develop Tee-Together, we gain meaningful feedback as we move closer to our final product. For the project's third phase, we developed a prototype and conducted user tests in cooperation with the IRB. We developed protocols and created informed consent forms that met the standards required to perform these tests. Through these tests, we gained critical feedback on our prototype and reassurance that the direction we are taking Tee-Together is correct. The feedback we received has given us a better understanding of user goals and user thought processes when utilizing our application. These tests also revealed how we performed to meet user needs compared to our competitors. The following report will highlight our methods, findings, and conclusions of this innovative process. 
 
 ## Methods
 
