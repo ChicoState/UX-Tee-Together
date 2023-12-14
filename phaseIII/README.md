@@ -16,9 +16,9 @@ Shortly after the conclusion of Phase II, informal feedback was once again drawn
 - For those familiar with golf, which scoring system would you rather see in our app - total strokes or strokes from par?
 - Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
 
-Once a working prototype was produced, we performed a usability test (n=5) with fellow Usability Engineering students acting as participants. To ensure the participants could be considered genuine users of the app, the participants were informally screened in advance of the study, with some golf knowledge and/or experience being required to participate.
+Once a working prototype was produced, we performed a usability test (n=5) with fellow Usability Engineering students acting as participants. To ensure the participants could be considered genuine users of the app, the participants were informally screened in advance of the study, with some golf knowledge and/or experience being required to participate. This formative study encouraged participants to say their thought process out loud as they worked through the tasks for each application.
 
-Before each usability test began, the moderator read the test's Informed Consent form out loud to the participant, detailing the minimized risks associated with the study. All 5 participants read and signed the form, approving each test to go forward.
+Before each usability test began, the moderator read the test's Informed Consent form out loud to the participant, detailing the general requests and minimized risks associated with the study. All 5 participants read and signed the form, approving each test to go forward.
 
 The first component of the test involved gaining non-identifying information from participants. This was done in the form of five questions:
 1. On a scale of 1-5 (1 being novice, 5 being professional) how would you rate your level of expertise with the game of golf?
