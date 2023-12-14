@@ -56,13 +56,11 @@ In summary, the Software Engineering students had no clear preference for golf s
 
 #### Usability Test
 
-
+<img src="./phase3table2.PNG" width="300">
 
 <img src="./phase3tables.PNG" width="400">
 
-<img src="./phase3table2.PNG" width="500">
-
-<img src="./phase3table3.PNG" width="600">
+<img src="./phase3table3.PNG" width="400">
 
 ## Conclusions
 
