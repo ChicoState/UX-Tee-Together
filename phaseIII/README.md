@@ -56,9 +56,13 @@ In summary, the Software Engineering students had no clear preference for golf s
 
 #### Usability Test
 
+The responses to the initial background information questions are summarized in the table below. Note that the one partipicant who didn't identify as a casual golf player explained that they have not played golf at all; no participants reported playing golf competitively. 
 <img src="./phase3table2.PNG" width="300">
+In response to the questions regarding social media likes and dislikes, participants mentioned that they like when social media apps offer stories like Snapchat and ranking systems. On the other hand, participants disliked social applications that mismanaged users' personal information, or provided recommendation algorithms which pigeonhole content. Sharing of location data came up both as a like and dislike between two separate participants.
 
+The difficulty rating and completion rates of tasks within each app are shown below. Note that some ratings have caveats associated with them, denoted by asterisks (*).
 <img src="./phase3tables.PNG" width="400">
+
 
 <img src="./phase3table3.PNG" width="400">
 
@@ -68,4 +72,4 @@ In summary, the Software Engineering students had no clear preference for golf s
 
 ## Caveats
 
-The first major caveat was that we had the absolute minimum acceptable sample size (number = 5). This will lead to skewed results because the small limited pool of participants can be greatly affected by biases. While our team was running our study we unfortunately had a participant not arrive so we were left with only five responses instead of six. Also, Task 1 originally included adding a profile picture however we had to remove that part of task one. The act of adding a profile picture could not be included in Hole19 due to potential privacy concerns. However, the participants who did attempt to add the profile picture were not able to accomplish the task anyway. The removal of this part of Task 1 was disclosed to some, but not all, participants, which may have affected their difficulty rating for Task 1. Another caveat is the fact that we had a limited pool of participants. All the participants came from the Usability engineering class which led to biases in our results. Because this was a class we could not effectively screen our participants as much as we would have liked. Finally, Hole19 was paywalled so some of the features that could have made accomplishing tasks easier were not accessible to the users while they were participating in the study.
+The first major caveat was that we had the absolute minimum acceptable sample size (n = 5). This may mean lead to skewed results because the small limited pool of participants can be greatly affected by biases. While our team was running our study we unfortunately had a participant not arrive so we were left with only five responses instead of six. Also, Task 1 originally included adding a profile picture however we had to remove that part of task one. The act of adding a profile picture could not be included in Hole19 due to potential privacy concerns. However, the participants who did attempt to add the profile picture were not able to accomplish the task anyway. The removal of this part of Task 1 was disclosed to some, but not all, participants, which may have affected their difficulty rating for Task 1. Another caveat is the fact that we had a limited pool of participants. All the participants came from the Usability engineering class which led to biases in our results. Because this was a class we could not effectively screen our participants as much as we would have liked. Finally, Hole19 was paywalled so some of the features that could have made accomplishing tasks easier were not accessible to the users while they were participating in the study.
