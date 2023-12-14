@@ -52,10 +52,17 @@ The informal feedback responses, directly as transcribed by the Tee-Together sof
 > Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
 - _Yes, it would make it easier to see fellow players scores. Many play per cart, so 1 scorecard kept. Additional functionality for both options, sync phones together._
 
-
+In summary, the Software Engineering students had no clear preference for golf scoring systems, and suggested a system which integrates both our propositions. They also approved of our collaborative scorecard idea. 
 
 #### Usability Test
+
+
+
 <img src="./phase3tables.PNG" width="400">
+
+<img src="./phase3table2.PNG" width="500">
+
+<img src="./phase3table3.PNG" width="600">
 
 ## Conclusions
 
