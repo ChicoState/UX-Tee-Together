@@ -80,7 +80,10 @@ One user noted that Tee-Together was "simple and straightforward", while another
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+We did not gain any valuable information from informal feedback in this Phase. Our informal feedback was focused on which scoring system would be preferred when using the scorecard. However, due to complications with our prototype, we were even able to analyze the score system throughout the test. 
+
+After reaching the end of our user tests and gathering all of our data, we were satisfied with the results and feedback we were given. Despite several caveats, the results of our user tests have given us a better insight into our user's goals and mental models as they utilize our application. Through this process, we have better understood that our simple yet effective application has a leg up on the more intricate and complex applications our competitor provides. We find our success in our target market through simplicity. Our application offers a satisfying, easy, and accessible platform for new and old golfers.
+
 
 ## Caveats
 
