@@ -20,7 +20,14 @@ Once a working prototype was produced, we performed a usability test (n=5) with 
 
 Before each usability test began, the moderator read the test's Informed Consent form out loud to the participant, detailing the minimized risks associated with the study. All 5 participants read and signed the form, approving each test to go forward.
 
-[Background information]
+The first component of the test involved gaining non-identifying information from participants. This was done in the form of five questions:
+1. On a scale of 1-5 (1 being novice, 5 being professional) how would you rate your level of expertise with the game of golf?
+2. Do you have trouble meeting new people and/or finding people with the same interests as you?
+3. Do you prefer to play golf casually or competitively?
+4. Think back to other social media applications you have used in the past. What features do you enjoy most from these applications?
+5. Lastly, when considering these social media applications, do you have any gripes or concerns with them?
+
+Although initial screening was performed to ensure no participants were a complete mismatch for the app, questions 1 and 3 were asked to gauge whether the participant aligns with our expected audience of non-professional casual golf players, and question 2 was asked to judge whether the participant might engage with the social aspects of our app. Questions 4 and 5 were asked in the hopes of discovering any broad desires in social media our app could aspire to fulfill, or pitfalls to be avoided.
 
 Participants were then asked to complete two tasks on both Hole19 and Tee-Together, with the order of the apps being randomized between participants.
 
@@ -28,7 +35,12 @@ Task 1 for each app involved signing on to a premade account and viewing the pro
 
 In order to gain quantifiable data on the ease of using each app, participants were asked to rate the ease of a task on a scale from 1-5 (1 being very difficult, 5 being very easy) immediately after completing it.
 
-[Wrap-Up]
+After completing the tasks, we asked for several more quantitative ratings of the two apps to create broader comparisons between the two apps' user experiences:
+- On a scale from 1-5 (1 being confusing, 5 being clear) how easily were you able to understand and recognize the symbols used by each app (for example, the icons at the bottom of the app)?
+- On a scale from 1-5 (1 being tedious, 5 being enjoyable), how satisfying was it to complete the tasks for each app?
+- On a scale from 1-5 (1 being dissatisfied, 5 being satisfied) how would you rate the ease of using each app?
+
+Participations were also asked about any potential features they would like to see added to Tee-Together, and given time to provide any additional feedback on either app.
 
 ## Findings
 
@@ -47,4 +59,4 @@ The informal feedback responses, directly as transcribed by the Tee-Together sof
 
 ## Caveats
 
-NOTES: (n=5) is the absolute minumum acceptable sample size; Task 1 originally inlcuded profile picture; the actual act of adding a profile picture was struck from Hole19 to avoid potential privacy concerns, but no users were able to find the profile picture setting before giving up; the removal of this part of the task was disclosed to some, but not all, participants, which may have affected the difficulty rating of Task 1; bias from participants being fellow UX students; limited screening, people could just sign up; Hole19 was paywalled, we did not pay for full version.
+NOTES: (n=5) is the absolute minumum acceptable sample size; Task 1 originally included adding a profile picture; the actual act of adding a profile picture was struck from Hole19 to avoid potential privacy concerns, but no users were able to find the profile picture setting before giving up; the removal of this part of Task 1 was disclosed to some, but not all, participants, which may have affected the difficulty rating of Task 1; bias from participants being fellow UX students; limited screening, people could just sign up; Hole19 was paywalled, we did not pay for full version.
