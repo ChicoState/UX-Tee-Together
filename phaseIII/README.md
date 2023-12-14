@@ -88,5 +88,7 @@ After reaching the end of our user tests and gathering all of our data, we were 
 ## Caveats
 
 The first major caveat was that we had the absolute minimum acceptable sample size (n = 5). This may mean lead to skewed results because the small limited pool of participants can be greatly affected by biases. While our team was running our study we unfortunately had a participant not arrive so we were left with only five responses instead of the intended six.
+
 Task 1 originally included adding a profile picture however we had to remove that part of task one. The act of adding a profile picture could not be included in Hole19 due to potential privacy concerns. However, the participants who did attempt to add the profile picture were not able to accomplish the task anyway. The removal of this part of Task 1 was directly disclosed to some, but not all, participants, which may have affected their difficulty rating for Task 1.
+
 There was also an unavoidable bias in our selection of participants, as all participants had to be selected from the Usability Engineering class. Students were free to sign up for any usability test they wanted, with the expectation that students follow the screen requirements; unfortunately, we could not effectively screen our participants more than that. Finally, we did not have access to the full paid version of Hole19, so some of the features that could have made accomplishing tasks easier were not accessible to the users while they were participating in the study.
