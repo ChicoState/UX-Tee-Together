@@ -29,7 +29,7 @@ The first component of the test involved gaining non-identifying information fro
 
 Although initial screening was performed to ensure no participants were a complete mismatch for the app, questions 1 and 3 were asked to gauge whether the participant aligns with our expected audience of non-professional casual golf players, and question 2 was asked to judge whether the participant might engage with the social aspects of our app. Questions 4 and 5 were asked in the hopes of discovering any broad desires in social media our app could aspire to fulfill, or pitfalls to be avoided.
 
-Participants were then asked to complete two tasks on both Hole19 and Tee-Together, with the order of the apps being randomized between participants.
+After these questions, participants were then asked to complete two tasks on both Hole19 and Tee-Together, with the order of the apps being randomized between participants.
 
 Task 1 for each app involved signing on to a premade account and viewing the profile information. This task was set up for comparing the relative ease of creating/signing into an account on each app. Task 2 for each app involved finding information on a course named "Spring Valley", creating a scorecard for that course, and recording a score for the course's first hole. This task was set up to compare the clarity of each app's Courses page and scorecard creation process.
 
@@ -52,6 +52,10 @@ The informal feedback responses, directly as transcribed by the Tee-Together sof
 > Would you consider collaborative scorecards (i.e. multiple players filling out the same scorecard simultaneously) to be a feature worth pursuing?
 - _Yes, it would make it easier to see fellow players scores. Many play per cart, so 1 scorecard kept. Additional functionality for both options, sync phones together._
 
+#### Background Information
+
+#### Usability Test
+<img src="./phase3tables.PNG" width="400">
 
 ## Conclusions
 
