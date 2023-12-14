@@ -76,11 +76,13 @@ The quantitative ratings regarding the quality of each app are summarized below.
 
 <img src="./phase3table3.PNG" width="400">
 
-One user noted that Tee-Together was "simple and straightforward", while another called Hole19 "overly complicated", and yet another expressed confusion with the various similar-sounding terms Hole19 used. Among the suggestions made for Tee-Together were to give the app a more consistent look, label navigation bar icons for further clarity, allow for searching of users by handle, and add a means to store a list of existing scorecards.
+One user noted that Tee-Together was "simple and straightforward", while another called Hole19 "overly complicated", and yet another expressed confusion with the various similar-sounding terms Hole19 used. Among the suggestions made for Tee-Together were to give the app a more consistent look, label navigation bar icons for further clarity, allow for searching of users by handle, and add a means to store existing scorecards in a list.
 
 ## Conclusions
 
-We did not gain any valuable information from informal feedback in this Phase. Our informal feedback was focused on which scoring system would be preferred when using the scorecard. However, due to complications with our prototype, we were even able to analyze the score system throughout the test. 
+The information gathered from the informal feedback in this phase. Our informal feedback was focused on which scoring system would be preferred when using the scorecard. However, due to the limitations of our prototype, we decided to include total strokes as the only scoring system. The question about collaborative scorecards was useful for thinking about the future of the app post-MVP, but ultimately not relevant for our MVP prototype. 
+
+Questions 4 and 5 of our Background Information questions emphasized the importance of keeping user data secure, but also brought up an interesting addition of post-MVP Tee-Together in the form of a ranking system/leaderboard. Our current plan of implementing opt-in location data sharing seems to be appropriate, since location data sharing was listed as both a like and dislike by our users.
 
 After reaching the end of our user tests and gathering all of our data, we were satisfied with the results and feedback we were given. Despite several caveats, the results of our user tests have given us a better insight into our user's goals and mental models as they utilize our application. Through this process, we have better understood that our simple yet effective application has a leg up on the more intricate and complex applications our competitor provides. We find our success in our target market through simplicity. Our application offers a satisfying, easy, and accessible platform for new and old golfers.
 
